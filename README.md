@@ -1,5 +1,14 @@
 Introduction
 
+Why Use This Vault and How to Get Started
+The Problem with Sniper Bots in Token Launches
+Hey guys,
+
+I want to explain why using this vault is crucial and walk you through how to use it.
+
+What Are Sniper Bots?
+Imagine you’re at a concert, and you’ve been waiting in line for hours to get tickets. Suddenly, a bunch of people cut the line, grab most of the tickets, and resell them at higher prices. That’s pretty much what sniper bots do during a token launch.
+
 The Anti-Bot Vault mechanism is designed to protect token launches from sniper bots and ensure a fairer distribution of tokens among genuine supporters. 
 This mechanism helps to mitigate the negative impact of bots, which often buy large quantities of tokens at launch, disadvantaging real users and supporters.
 
